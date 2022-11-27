@@ -15,16 +15,17 @@ html, body {
   border-radius: 9px;
   cursor: pointer;
   transition: transform 0.3s;
+/*   -- */
   
 }
 
 .button:hover{
-  background-color: #7267CB;
+  background-color:rgb(100, 84, 227);
   transform: translateY(-5px);
 }
 
 .container{
-  background-color: #7267CB;
+  background-color: rgb(92, 71, 255);
   display:bloc;
   border-radius: 10px;
   padding: 10px;
