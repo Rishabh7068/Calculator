@@ -23,6 +23,16 @@ html, body {
   transform: translateY(-5px);
 }
 
+.container{
+  background-color: #7267CB;
+  display:bloc;
+  border-radius: 10px;
+  padding: 10px;
+  width: 320px;
+  height: 450px;
+  
+}
+
 
 
 .row{
